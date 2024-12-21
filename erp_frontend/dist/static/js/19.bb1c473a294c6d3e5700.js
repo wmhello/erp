@@ -1,0 +1,1 @@
+webpackJsonp([19],{P9l9:function(e,r,a){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),a.d(r,"order_baseUrl",function(){return t}),a.d(r,"product_baseUrl",function(){return n}),a.d(r,"package_baseUrl",function(){return u}),a.d(r,"detail_baseUrl",function(){return i});var t="/api/orders",n="/api/products",u="/api/packages",i="/api/details"}});
